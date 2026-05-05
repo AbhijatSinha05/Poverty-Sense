@@ -1,0 +1,12 @@
+torch
+torchvision
+timm
+torch-geometric
+numpy
+osmnx
+contextily
+xyzservices
+scikit-learn
+gradio
+matplotlib
+Pillow
